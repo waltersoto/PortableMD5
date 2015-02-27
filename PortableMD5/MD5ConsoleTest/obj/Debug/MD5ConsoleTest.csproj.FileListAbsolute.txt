@@ -1,0 +1,16 @@
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\bin\Debug\MD5ConsoleTest.exe.config
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\bin\Debug\MD5ConsoleTest.exe
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\bin\Debug\MD5ConsoleTest.pdb
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\bin\Debug\PortableMD5.dll
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\bin\Debug\PortableMD5.pdb
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\obj\Debug\MD5ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\obj\Debug\MD5ConsoleTest.exe
+C:\Users\Walter\Documents\Visual Studio 2013\Projects\PortableMD5\MD5ConsoleTest\obj\Debug\MD5ConsoleTest.pdb
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\bin\Debug\MD5ConsoleTest.exe.config
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\obj\Debug\MD5ConsoleTest.exe
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\obj\Debug\MD5ConsoleTest.pdb
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\bin\Debug\MD5ConsoleTest.exe
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\bin\Debug\MD5ConsoleTest.pdb
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\bin\Debug\PortableMD5.dll
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\bin\Debug\PortableMD5.pdb
+C:\Users\Walter\Documents\Development\PortableMD5\PortableMD5\MD5ConsoleTest\obj\Debug\MD5ConsoleTest.csprojResolveAssemblyReference.cache
